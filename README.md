@@ -1,4 +1,4 @@
-<!--# 💫 About Me:
+# 💫 About Me:
 <br>Hey, I am Parth. I am a student deeply immersed in the tech world, constantly exploring new frameworks and building applications. I have a passion for learning emerging technologies and experimenting with various AI tools to enhance my workflow and creativity.
 
 
