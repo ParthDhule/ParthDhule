@@ -10,6 +10,3 @@ Hey, I am Parth. I am a student deeply immersed in the tech world, constantly ex
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ParthDhule&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ParthDhule&theme=dark&hide_border=false)<br/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
